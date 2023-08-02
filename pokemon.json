@@ -1,0 +1,8 @@
+{
+  "pokemonArray": [
+    {
+      "pokemonName": "Pikachu",
+      "type": "electric"
+    }
+  ]
+}
